@@ -62,7 +62,7 @@ To know that just write:
 Get-ComputerInfo | Select-Object WindowsProductName
 ```
 
-_4. Backup and recover Thunderbird email accounts_
+_4. Backup and recovery of entire Thunderbird client email accounts_
 
 The script facilitates the copying of the data, creates a file with the extension PS1 and places code inside, with option 1 the script exports the data to the Desktop path, copies that folder to the Desktop path of the computer where you are going to import the data, before executing the script you must have Thunderbird installed, finally select option 2 to import.
 
