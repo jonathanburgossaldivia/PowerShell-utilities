@@ -2,7 +2,7 @@
 
 ### How to use
 
-These programs are only for Windows 10 but if you use Linux and you want to modify them, the way to do it is by executing the command:
+These scripts are only for Windows 10 but if you use Linux and you want to modify them, the way to do it is by executing the command:
 
 ```{ bash}
 pwsh
