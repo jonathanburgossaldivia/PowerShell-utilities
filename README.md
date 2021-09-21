@@ -1,4 +1,4 @@
-## Powershell utilities for System Administrators
+## Powershell utilities for System Administrators or TI technical support
 
 ### How to use
 
