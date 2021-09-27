@@ -2,11 +2,7 @@
 
 ### How to use
 
-These scripts are only for Windows 10 but if you use Linux and you want to modify them, the way to do it is by executing the command:
-
-```{ bash}
-pwsh
-```
+These scripts are only for Windows 10:
 
 Once PowerShell is executed you must enable the execution of scripts for this you must write:
 
