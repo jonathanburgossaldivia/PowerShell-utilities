@@ -4,7 +4,7 @@
 
 These scripts are only for Windows 10:
 
-Once PowerShell is executed you must enable the execution of scripts for this you must write:
+Execute PowerShell as administrator, you must enable the execution of scripts for this you must write:
 
 ```{PowerShell}
 Set-ExecutionPolicy Unrestricted
