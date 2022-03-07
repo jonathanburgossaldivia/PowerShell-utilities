@@ -84,4 +84,6 @@ If ($selection  -eq '1') {
 
 _5. Uninstall Windows updates on windows 10
 
+```{PowerShell}
 wusa /uninstall /kb:123456
+```
