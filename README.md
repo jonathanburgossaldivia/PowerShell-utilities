@@ -79,3 +79,9 @@ If ($selection  -eq '1') {
     Write-Host "Incorrect selection"
 }
 ```
+
+
+
+_5. Uninstall Windows updates on windows 10
+
+wusa /uninstall /kb:123456
